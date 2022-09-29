@@ -45,3 +45,6 @@ docker-compose.yml
 /coverage
 .tool-versions
 .idea/
+
+#Hexlet ignore test
+INFO.md
